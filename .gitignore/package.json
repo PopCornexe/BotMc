@@ -1,0 +1,11 @@
+{
+  "name": "botmc",
+  "version": "1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "PopCorn",
+  "license": "ISC",
+  "dependencies": {
+  "discord.js": "^11.5.0"
+  }
+  }
